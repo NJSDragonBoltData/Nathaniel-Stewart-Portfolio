@@ -9,23 +9,26 @@ And now with the knowledge I’ve gained, I am always looking for new methods an
 
 I hope my portfolio will gather an interest in mind. Thank you and I look forward to hear from you soon.
 
+
 ## Table of Contents
 - [About](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio/edit/main/README.md#about)
 - [Portfolio Projects](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio/edit/main/README.md#portfolio-projects)
   - Python
-    -
-    -
+    - []
+    - []
   - SQL
-    -
-    -
+    - []
+    - []
   - Microsoft Excel / Google Sheets
   - Microsoft Access
   - Tableau
     - [Tableau Public](https://public.tableau.com/app/profile/nate.stewart7404/vizzes)
 
+
 ## Portfolio Projects
 
 ###
+
 
 ## Education
 Georgia College & State University, Milledgeville:
