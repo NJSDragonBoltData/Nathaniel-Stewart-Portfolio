@@ -14,11 +14,13 @@ I hope my portfolio will gather an interest in mind. Thank you and I look forwar
 - [About](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio/edit/main/README.md#about)
 - [Portfolio Projects](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio/edit/main/README.md#portfolio-projects)
   - Python
-    - []
-    - []
+    - [Customer Segmentation & Clustering]
+    - [Superstore Sales Analysis]
+    - [Cricket Match Analysis]
+    - [WGU - Data Cleaning D206]
   - SQL
-    - []
-    - []
+    - [COVID Practice Project]
+    - [Nashville Data Cleaning]
   - Microsoft Excel / Google Sheets
   - Microsoft Access
   - Tableau
@@ -27,9 +29,12 @@ I hope my portfolio will gather an interest in mind. Thank you and I look forwar
 
 ## Portfolio Projects
 
-###
-
-
+### Customer Segmentation & Clustering
+### Superstore Sales Analysis
+### Cricket Match Analysis
+### WGU - Data Cleaning D206
+### COVID Practice Project
+### Nashville Data Cleaning
 ## Education
 Georgia College & State University, Milledgeville:
 Bachelor's Degree, Management Information Systems,
