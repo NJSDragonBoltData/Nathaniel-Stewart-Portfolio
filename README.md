@@ -30,6 +30,11 @@ I hope my portfolio will gather an interest in mind. Thank you and I look forwar
 ## Portfolio Projects
 
 ### Customer Segmentation & Clustering
+**Code:** [`customer_seg_and_cluster.ipynb'](https://github.com/NJSDragonBoltData/Nate_Stewart_Portfolio_Projects/blob/main/customer_seg_and_cluster.ipynb)
+**Objective:**
+**Description:**
+**Skills:**
+**Technology:**
 ### Superstore Sales Analysis
 ### Cricket Match Analysis
 ### WGU - Data Cleaning D206
