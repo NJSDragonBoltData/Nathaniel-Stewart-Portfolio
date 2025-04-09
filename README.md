@@ -11,8 +11,8 @@ I hope my portfolio will gather an interest in mind. Thank you and I look forwar
 
 
 ## Table of Contents
-- [About](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio/edit/main/README.md#about)
-- [Portfolio Projects](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio/edit/main/README.md#portfolio-projects)
+- [About](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio?tab=readme-ov-file#about)
+- [Portfolio Projects](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio?tab=readme-ov-file#portfolio-projects)
   - Python
     - [Customer Segmentation & Clustering]
     - [Superstore Sales Analysis]
