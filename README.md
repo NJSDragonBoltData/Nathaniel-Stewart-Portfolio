@@ -14,13 +14,14 @@ I hope my portfolio will gather an interest in mind. Thank you and I look forwar
 - [About](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio?tab=readme-ov-file#about)
 - [Portfolio Projects](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio?tab=readme-ov-file#portfolio-projects)
   - Python
-    - [Customer Segmentation & Clustering]
+    - [Mall Customer Segmentation & Clustering]
     - [Superstore Sales Analysis]
     - [Cricket Match Analysis]
     - [WGU - Data Cleaning D206]
   - SQL
     - [COVID Practice Project]
     - [Nashville Data Cleaning]
+    - [HR Analysis]
   - Microsoft Excel / Google Sheets
   - Microsoft Access
   - Tableau
@@ -29,7 +30,7 @@ I hope my portfolio will gather an interest in mind. Thank you and I look forwar
 
 ## Portfolio Projects
 
-### Customer Segmentation & Clustering
+### Mall Customer Segmentation & Clustering
 **Code:** [`customer_seg_and_cluster.ipynb`](https://github.com/NJSDragonBoltData/Nate_Stewart_Portfolio_Projects/blob/main/customer_seg_and_cluster.ipynb)
 **Objective:**
 **Description:**
