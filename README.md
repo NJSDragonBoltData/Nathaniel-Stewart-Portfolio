@@ -39,7 +39,17 @@ I hope my portfolio will gather an interest in mind. Thank you and I look forwar
 ### Cricket Match Analysis
 ### WGU - Data Cleaning D206
 ### COVID Practice Project
+**Code:** [`COVID_Practice_Portfolio_Project.sql`](https://github.com/NJSDragonBoltData/Nate_Stewart_Portfolio_Projects/blob/main/COVID_Practice_Portfolio_Project.sql)
+**Objective:**
+**Description:**
+**Skills:**
+**Technology:**
 ### Nashville Data Cleaning
+**Code:** [`Nashville_Housing_Data_2.sql`](https://github.com/NJSDragonBoltData/Nate_Stewart_Portfolio_Projects/blob/main/Nashville_Housing_Data_2.sql)
+**Objective:**
+**Description:**
+**Skills:**
+**Technology:**
 ## Education
 Georgia College & State University, Milledgeville:
 Bachelor's Degree, Management Information Systems,
