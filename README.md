@@ -68,7 +68,7 @@ I hope my portfolio will gather an interest in mind. Thank you and I look forwar
 
 **Objective:** To perform successful data cleaning in order to deliver accurate results in finding principal componants within datasets.
 
-**Description:** This project involves performing more advanced data cleaning methods (Plot nullity matrix, finding and removing outliers, k-Nearest Neighbors) within healthcare data which would generally contain high amounts of information. In addition, Principal Componant Analysis is performed to determine which variables carry the most emphasis within the dataset. Thus, finding different ways for better decision making and answering research questions.
+**Description:** This project involves performing more advanced data cleaning methods (Plot nullity matrix, finding and removing outliers, using k-Nearest Neighbors Imputation) within healthcare data which would generally contain high amounts of information. In addition, Principal Componant Analysis is performed to determine which variables carry the most emphasis within the dataset. Thus, finding different ways for better decision making and answering research questions.
 
 **Skills:** Data Visualization, Data Cleaning, Machine Learning
 
