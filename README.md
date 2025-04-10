@@ -65,21 +65,41 @@ I hope my portfolio will gather an interest in mind. Thank you and I look forwar
 
 ### WGU - Data Cleaning D206
 **Code:** [`D206_Data_Cleaning_Performance_Assessment_NStewart-Copy2.ipynb`](https://github.com/NJSDragonBoltData/Nate_Stewart_Portfolio_Projects/blob/main/D206_Data_Cleaning_Performance_Assessment_NStewart-Copy2.ipynb)
-**Objective:**
-**Description:**
-**Skills:**
-**Technology:**
+
+**Objective:** To perform successful data cleaning in order to deliver accurate results in finding principal componants within datasets.
+
+**Description:** This project involves performing more advanced data cleaning methods (Plot nullity matrix, finding and removing outliers, k-Nearest Neighbors) within healthcare data which would generally contain high amounts of information. In addition, Principal Componant Analysis is performed to determine which variables carry the most emphasis within the dataset. Thus, finding different ways for better decision making and answering research questions.
+
+**Skills:** Data Visualization, Data Cleaning, Machine Learning
+
+**Technology:** Python, Pandas, Numpy, Matplotlib, Scikit-Learn, Missingno
 
 ### COVID Practice Project
 **Code:** [`COVID_Practice_Portfolio_Project.sql`](https://github.com/NJSDragonBoltData/Nate_Stewart_Portfolio_Projects/blob/main/COVID_Practice_Portfolio_Project.sql)
-**Description:**
-**Skills:**
-**Technology:**
+
+**Description:** This dataset includes information of COVID-19 cases and vaccinations by country between 2020 and 2021.
+
+**Skills:** Joins, Aggregate Functions, Temp Tables, CTEs, Window Functions
+
+**Technology:** Microsoft SQL Server
+
 ### Nashville Data Cleaning
 **Code:** [`Nashville_Housing_Data_2.sql`](https://github.com/NJSDragonBoltData/Nate_Stewart_Portfolio_Projects/blob/main/Nashville_Housing_Data_2.sql)
-**Description:**
-**Skills:**
-**Technology:**
+
+**Description:** This project involves data cleaning and manipulation within a dataset that contains a list of houses in Nashville that have been sold between 2013 and 2019.
+
+**Skills:** Data Query Language (DQL), Data Manipulation Language (DML), Data Definition Language (DDL)
+
+**Technology:** Microsoft SQL Server
+
+### HR Analysis
+**Code:** [`HR_Database_Project.sql`](https://github.com/NJSDragonBoltData/Nate_Stewart_Portfolio_Projects/blob/main/HR_Database_Project.sql)
+
+**Description:** This project is about finding performance results while tracking and analyzing key metrics in a Human Resources department.
+
+**Skills:** Aggregate Functions, Pivot Tables, Scalar Functions
+
+**Technology:** Microsoft SQL Server
 
 ## Education
 Georgia College & State University, Milledgeville:
