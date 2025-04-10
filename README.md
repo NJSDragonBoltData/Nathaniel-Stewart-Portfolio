@@ -14,14 +14,14 @@ I hope my portfolio will gather an interest in mind. Thank you and I look forwar
 - [About](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio?tab=readme-ov-file#about)
 - [Portfolio Projects](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio?tab=readme-ov-file#portfolio-projects)
   - Python
-    - [Mall Customer Segmentation & Clustering]
-    - [Superstore Sales Analysis]
-    - [Cricket Match Analysis]
-    - [WGU - Data Cleaning D206]
+    - [Mall Customer Segmentation & Clustering](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio#mall-customer-segmentation-&-clustering)
+    - [Superstore Sales Analysis](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio#superstore-sales-analysis)
+    - [Cricket Match Analysis](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio#cricket-match-analysis)
+    - [WGU Data Cleaning D206](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio#wgu-data-cleaning-d206)
   - SQL
-    - [COVID Practice Project]
-    - [Nashville Data Cleaning]
-    - [HR Analysis]
+    - [COVID Practice Project](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio#covid-practice-project)
+    - [Nashville Data Cleaning](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio#nashville-data-cleaning)
+    - [HR Analysis](https://github.com/NJSDragonBoltData/Nathaniel-Stewart-Portfolio#hr-analysis)
   - Microsoft Excel / Google Sheets
   - Microsoft Access
   - Tableau
