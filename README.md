@@ -32,6 +32,7 @@ I hope my portfolio will gather an interest in mind. Thank you and I look forwar
 
 ### Mall Customer Segmentation & Clustering
 **Code:** [`customer_seg_and_cluster.ipynb`](https://github.com/NJSDragonBoltData/Nate_Stewart_Portfolio_Projects/blob/main/customer_seg_and_cluster.ipynb)
+
 **Objective:** To create subsets of a mall target market based on behavioral criteria to gain clarity on the target for marketing activities.
 
 **Description:** This dataset contains a list of customers. The records include factors such as the customer's gender, age, income, and spending score. All of which are being used to develop marketing stratigies. Thus, the dataset is used to identify the most important shopping groups using factors within such.
