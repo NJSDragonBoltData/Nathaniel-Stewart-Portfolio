@@ -37,26 +37,34 @@ I hope my portfolio will gather an interest in mind. Thank you and I look forwar
 
 **Description:** This dataset contains a list of customers. The records include factors such as the customer's gender, age, income, and spending score. All of which are being used to develop marketing stratigies. Thus, the dataset is used to identify the most important shopping groups using factors within such.
 
-**Skills:** Machine learning (K-Means), Data Visualization, Exploratory Data Analysis
+**Skills:** Machine Learning (K-Means), Data Visualization, Exploratory Data Analysis (EDA)
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn
 
 ### Superstore Sales Analysis
-**Code:** [`NJS_sales_analysis_project.ipynb`]
-**Objective:**
-**Description:**
-**Skills:**
-**Technology:**
+**Code:** [`NJS_sales_analysis_project.ipynb`](https://github.com/NJSDragonBoltData/Nate_Stewart_Portfolio_Projects/blob/main/NJS_sales_analysis_project.ipynb)
+
+**Objective:** To analyze the sales history of a superstore and find insights on stores worldwide.
+
+**Description:** This project is focused on finding insights for orders from a successful worldwide superstore.
+
+**Skills:** Exploratory Data Analysis (EDA), Data Visualization, Data Cleaning
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
 
 ### Cricket Match Analysis
-**Code:** [`Cricket_Match - Data_cleaning - Exploratory_data_analysis.ipynb`]
-**Objective:**
-**Description:**
-**Skills:**
-**Technology:**
+**Code:** [`Cricket_Match - Data_cleaning - Exploratory_data_analysis.ipynb`](https://github.com/NJSDragonBoltData/Nate_Stewart_Portfolio_Projects/blob/main/Cricket_Match%20-%20Data_cleaning%20-%20Exploratory_data_analysis.ipynb)
+
+**Objective:** To study player highlights from previous cricket matches in recorded history.
+
+**Description:** This project involves simple data cleaning for a cricket match dataset that contains player information including their name, career span, how many matches they have played, batting averages, etc. After data cleaning, exploratory data analysis is performed to calculate certain factors such as a player's career span in years, average batting strike rate, average runs scored by country, etc.
+
+**Skills:** Data Cleaning, Exploratory Data Analysis (EDA)
+
+**Technology:** Python, Pandas
 
 ### WGU - Data Cleaning D206
-**Code:** [`D206_Data_Cleaning_Performance_Assessment_NStewart-Copy2.ipynb`]
+**Code:** [`D206_Data_Cleaning_Performance_Assessment_NStewart-Copy2.ipynb`](https://github.com/NJSDragonBoltData/Nate_Stewart_Portfolio_Projects/blob/main/D206_Data_Cleaning_Performance_Assessment_NStewart-Copy2.ipynb)
 **Objective:**
 **Description:**
 **Skills:**
