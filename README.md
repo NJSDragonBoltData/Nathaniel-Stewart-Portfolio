@@ -42,20 +42,37 @@ I hope my portfolio will gather an interest in mind. Thank you and I look forwar
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn
 
 ### Superstore Sales Analysis
+**Code:** [`NJS_sales_analysis_project.ipynb`]
+**Objective:**
+**Description:**
+**Skills:**
+**Technology:**
+
 ### Cricket Match Analysis
+**Code:** [`Cricket_Match - Data_cleaning - Exploratory_data_analysis.ipynb`]
+**Objective:**
+**Description:**
+**Skills:**
+**Technology:**
+
 ### WGU - Data Cleaning D206
+**Code:** [`D206_Data_Cleaning_Performance_Assessment_NStewart-Copy2.ipynb`]
+**Objective:**
+**Description:**
+**Skills:**
+**Technology:**
+
 ### COVID Practice Project
 **Code:** [`COVID_Practice_Portfolio_Project.sql`](https://github.com/NJSDragonBoltData/Nate_Stewart_Portfolio_Projects/blob/main/COVID_Practice_Portfolio_Project.sql)
-**Objective:**
 **Description:**
 **Skills:**
 **Technology:**
 ### Nashville Data Cleaning
 **Code:** [`Nashville_Housing_Data_2.sql`](https://github.com/NJSDragonBoltData/Nate_Stewart_Portfolio_Projects/blob/main/Nashville_Housing_Data_2.sql)
-**Objective:**
 **Description:**
 **Skills:**
 **Technology:**
+
 ## Education
 Georgia College & State University, Milledgeville:
 Bachelor's Degree, Management Information Systems,
