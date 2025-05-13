@@ -103,11 +103,11 @@ I hope my portfolio will gather an interest in mind. Thank you and I look forwar
 
 ## Education
 Georgia College & State University, Milledgeville:
-Bachelor's Degree, Management Information Systems,
+Bachelor of Business Administration, Management Information Systems,
 Aug 2019 - Aug 2022
 
 Georgia Military College, Milledgeville:
-Associate's Degree, General Studies,
+Associate of Science, General Studies,
 2016 - 2019
 
 ## Contacts
